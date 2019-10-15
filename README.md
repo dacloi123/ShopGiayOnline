@@ -15,3 +15,7 @@ Sản phẩm hiện có:</br>
 <img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t1.15752-9/70706298_518432865608231_5998411180257837056_n.png?_nc_cat=105&_nc_oc=AQkWqOt8vZqiB7rDeSm3RVgJpkN_JUyLD7eS-BcX3ueYA8AetMCk-EdUZRpJ4yQ9cacifLoYwwCqi4HJOXMdHLhD&_nc_ht=scontent.fdad3-2.fna&oh=b71de71c98ffbde51fdc087f1598e729&oe=5DF119AE">
 Tính năng cơ bản:
 <img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/71199456_458965461372349_8440263721992847360_n.png?_nc_cat=106&_nc_oc=AQk8jVc-8PicbrtafhavOjYDxVcwagx0QLTpoEk5FYD0sMCZVl_cMRc0F8pjOqVBfkfmEhI2_FtiW24oCLQdjBPZ&_nc_ht=scontent.fdad3-1.fna&oh=a991946015daa153223fdba1850cbf55&oe=5E011040">
+Liên Kết:
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72890280_1397905620374667_4860346620362883072_n.png?_nc_cat=105&_nc_oc=AQkuL-uNabTtkJGrhzWr_kR1rrHrLjExRBJ9x5gk0cSGr-6Jq3Qyg5ieFJ-i_iOYpG0&_nc_ht=scontent.fdad1-1.fna&oh=c93edd119bbaed4ac0db1c9c525c3eab&oe=5E198922">
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72951994_1660680784062872_7132422171493662720_n.png?_nc_cat=104&_nc_oc=AQmdwgTvhKqAvhBqrh_N2tYMO49w25bcfkskA8oWnujly4eYLyNm75zC1qiYqXBNQo4&_nc_ht=scontent.fdad1-1.fna&oh=296529c02765109c19cc09c577cb7cef&oe=5E38950C">
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72411995_2450421911854570_880956624871620608_n.png?_nc_cat=103&_nc_oc=AQm9GnFHDVZXm7G-B_elwkf7M6N0pcM9V-Z21c-rxYCb0lJMsF7kmbharaZz6juulmE&_nc_ht=scontent.fdad1-1.fna&oh=e8e2b1a188dfa1a6b11bbda9d13b6757&oe=5E33598B">
