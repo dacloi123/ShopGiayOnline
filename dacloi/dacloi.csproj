@@ -194,6 +194,10 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="ShoppingCart.aspx" />
+    <Content Include="AddToCart.aspx" />
+    <Content Include="Giay.aspx" />
+    <Content Include="GiayDetail.aspx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="img\1.png" />
     <Content Include="img\11.png" />
@@ -253,6 +257,12 @@
       <DependentUpon>Bosuutap.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Logic\ShoppingCartActions.cs" />
+    <Compile Include="Models\Giay.cs" />
+    <Compile Include="Models\GiayContext.cs" />
+    <Compile Include="Models\DataGiay.cs" />
+    <Compile Include="Models\CartItem.cs" />
+    <Compile Include="Models\HangGiay.cs" />
     <Compile Include="ThôngTin.aspx.cs">
       <DependentUpon>ThôngTin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -291,6 +301,34 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingCart.aspx.cs">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShoppingCart.aspx.designer.cs">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddToCart.aspx.cs">
+      <DependentUpon>AddToCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddToCart.aspx.designer.cs">
+      <DependentUpon>AddToCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Giay.aspx.cs">
+      <DependentUpon>Giay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Giay.aspx.designer.cs">
+      <DependentUpon>Giay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GiayDetail.aspx.cs">
+      <DependentUpon>GiayDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GiayDetail.aspx.designer.cs">
+      <DependentUpon>GiayDetail.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
